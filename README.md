@@ -3,6 +3,7 @@
 Behavioral data analysis of student productivity using **PostgreSQL** and **Metabase**.  
 This project explores sleep patterns, digital distraction, and performance segmentation through SQL-based analysis and dashboard visualization.
 
+Dataset source: https://www.kaggle.com/datasets/algozee/student-productivity-and-behavior-dataset-20k
 ---
 
 ## Overview
