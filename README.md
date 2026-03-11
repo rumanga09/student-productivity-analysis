@@ -97,21 +97,6 @@ For the Python extension, K-Means clustering (k=3) was applied on standardized b
 
 ---
 
-## Repository Structure
-
-```
-student-productivity-analysis/
-├── student_productivity_analysis.ipynb   # Full Python analysis notebook
-├── student_productivity_distraction_dataset_20000.csv  # Dataset
-├── sql/                                  # PostgreSQL queries
-├── productivity_visualizations.png       # EDA charts
-├── clustering_results.png                # K-Means output
-├── regression_results.png                # Regression output
-└── README.md
-```
-
----
-
 ## Future Improvements
 
 - [x] SQL-based segmentation and aggregation
